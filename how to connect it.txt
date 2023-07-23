@@ -1,0 +1,3 @@
+connect server setups and paste this folder in htdocs,
+in this local host database name store_db.
+import files browse in in side the product folder/database folder
